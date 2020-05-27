@@ -1,0 +1,1 @@
+//Selecionar função do elemento
